@@ -1,0 +1,12 @@
+{
+  "name": "lab",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Interval.js",
+  "scripts": {
+    "start": "node lab2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
